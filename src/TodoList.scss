@@ -1,0 +1,25 @@
+.todo-container {
+    h2 {
+        text-align: center;
+    }
+
+    svg { 
+        cursor: pointer; 
+    }
+
+    .todo-list {
+        width: 80%;
+        height: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .btn-add {
+        margin-top: 20px;
+        float: right;
+    }
+
+    .MuiDataGrid-columnHeaderTitleContainerContent {
+        margin: 0 auto;
+    }
+}
